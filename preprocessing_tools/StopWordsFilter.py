@@ -1,4 +1,4 @@
-from nltk.corpus import stopwords
+import nltk
 
 
 class StopWordsFilter:
@@ -8,5 +8,5 @@ class StopWordsFilter:
     def filter(self, tokens):
         result = []
         for token in tokens:
-            if token not in stopwords: result.append(token)
+            if token not in nltk.corpus.stopwords.words('spanish'): result.append(token)
         return result
