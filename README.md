@@ -12,7 +12,7 @@ This project revolves around the exploration and categorization of textual data 
 - `preprocessing_tools/`: It contains tools dedicated to data preprocessing.
 - `main.py`: The main entry point or script of the project.
 
-## Contributors
+---
 ## Contact
 
 (c) 2023 José Juan Hernández Gálvez 
