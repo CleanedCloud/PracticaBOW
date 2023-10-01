@@ -1,4 +1,4 @@
-# Práctica BOW
+# BOW Tutorial
 
 [![Skill Icons](https://skillicons.dev/icons?i=py&perline=2)](https://skillicons.dev)
 
